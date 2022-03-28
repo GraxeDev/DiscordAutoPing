@@ -1,0 +1,4 @@
+requests
+nextcord
+sqlalchemy
+pynacl
