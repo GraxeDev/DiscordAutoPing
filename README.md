@@ -1,2 +1,3 @@
-# DiscordAutoPing
-AutoPing for Discord, Pings someone in a set channel when they join a server!
+# AutoPing - (Mainly AutoPong)
+
+You can set it up fully. Any questions? Join the discord: https://discord.gg/rHksNbU8Hg
