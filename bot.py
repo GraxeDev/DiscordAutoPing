@@ -7,7 +7,7 @@ from nextcord.ext import commands
 intents = nextcord.Intents.default()
 intents.members = True
 
-db = opensql.ODB("SQL DATABASE HERE (Key)")
+db = opensql.ODB("Insert opensql key here...")
 print("Database connected!")
 
 def exists(guild_id):
